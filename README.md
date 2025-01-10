@@ -52,14 +52,14 @@
 - [x] CPU睿频
 - [x] 以太网
 - [x] 声音输出/麦克风
-- [x] CPU/GPU传感器
+- [x] CPU/GPU传感器（需要添加SMCRadeonSensors.kext才能正常读取显卡温度 / 风扇转速）
 - [x] 显卡（Matel/VDA）
 - [x] 隔空投送
 - [x] 接力
 - [x] 随航
 - [x] 跨设备粘贴
 - [x] 通用控制
-- [ ] iPhone镜像（macOS Sequoia独占的功能）
+- [ ] iPhone镜像
 
 ## 截图
 <img width="316" alt="43733B61A16CD7366AC13C86F65CE824" src="https://github.com/user-attachments/assets/fd352b42-65e3-4f9b-bfe2-46c4588db9ac" />
