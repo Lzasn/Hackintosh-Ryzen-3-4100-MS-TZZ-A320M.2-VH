@@ -44,7 +44,7 @@
 > [!IMPORTANT]
 >
 > lntel AX210无线网卡只能用单向的隔空投送，若需要双向隔空投送功能请考虑更换博通WiFI网卡<br/>
-> iPhone镜像需要T2支持，黑苹果目前无解
+> iPhone镜像需要T2芯片支持，黑苹果目前无解
 
 
 
@@ -62,7 +62,7 @@
 - [ ] iPhone镜像（macOS Sequoia独占的功能）
 
 ## 截图
-![0513839E83CCDFE531B1523D34FE2DB7](https://github.com/user-attachments/assets/e2b3dfaf-ea2a-4cdd-9e3c-e933eda598b3)
-![QQ20240921-025441](https://github.com/user-attachments/assets/f4882587-b3a0-4613-877e-1aa8edf2a41f)
+<img width="316" alt="43733B61A16CD7366AC13C86F65CE824" src="https://github.com/user-attachments/assets/fd352b42-65e3-4f9b-bfe2-46c4588db9ac" />
+
 
 
