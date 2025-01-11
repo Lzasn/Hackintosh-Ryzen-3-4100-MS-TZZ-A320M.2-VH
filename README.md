@@ -1,7 +1,7 @@
 ![OpenCore_with_text_Small](https://github.com/user-attachments/assets/49f199f8-6059-4386-bd19-5c7eabf65c29)
 
 
-## macOS OpenCore EFI
+## Hackintosh-Ryzen-3-4100-MS-TZZ-A320M.2-VH
 
 >  [!CAUTION]
 >
